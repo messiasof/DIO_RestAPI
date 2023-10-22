@@ -16,7 +16,7 @@ Este é um projeto simples que serve como uma API para a entrega do último proj
 - **Railway**: Facilita o deploy e monitoramento de soluções na nuvem, oferecendo diversos bancos de dados como serviço e pipelines de CI/CD. Esta API estará disponível no Railway por um período limitado, mas é um projeto de código aberto. Sinta-se à vontade para cloná-lo, modificá-lo e executá-lo localmente ou onde desejar.
 
 ## Diagrama de Classes (Domínio da API)
-O diagrama abaixo representa as principais classes que compõem o domínio desta API:
+O diagrama abaixo representa as principais classes que compõem o domínio desta API conforme o fork original:
 
 ```mermaid
 classDiagram
