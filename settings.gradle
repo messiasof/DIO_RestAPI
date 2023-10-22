@@ -1,0 +1,1 @@
+rootProject.name = 'santander-dev-week-2023-api' //Sem necessidade de trocar o root, é uma informação headless pro client.
